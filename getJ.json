@@ -29,14 +29,14 @@
   },
   {
     "id": 4,
-    "item": "book4",
+    "item": "book5",
     "price": 201300,
     "title": "book4_title",
     "author": "kwon"
   },
   {
     "id": 5,
-    "item": "book5",
+    "item": "book6",
     "price": 2013200,
     "title": "book5_title",
     "author": "choi"
